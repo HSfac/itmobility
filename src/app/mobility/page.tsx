@@ -1,4 +1,4 @@
-import { Car, MapPin, Battery, Clock, Navigation } from "lucide-react";
+import { Car, MapPin, Clock, Navigation } from "lucide-react";
 
 export default function MobilityPage() {
   return (

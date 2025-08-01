@@ -1,4 +1,4 @@
-import { BookOpen, Lock, Car, Smartphone, CreditCard, MapPin, QrCode, Shield } from "lucide-react";
+import { BookOpen, Lock, Car, Smartphone, CreditCard, MapPin, Shield } from "lucide-react";
 
 export default function GuidePage() {
   return (
@@ -73,7 +73,7 @@ export default function GuidePage() {
                 <ol className="space-y-3 text-muted">
                   <li className="flex items-start">
                     <span className="bg-primary text-white rounded-full w-6 h-6 flex items-center justify-center text-sm font-bold mr-3 mt-0.5">1</span>
-                    <span>웹사이트나 앱에서 '스마트락커' 메뉴를 선택하세요</span>
+                    <span>웹사이트나 앱에서 &apos;스마트락커&apos; 메뉴를 선택하세요</span>
                   </li>
                   <li className="flex items-start">
                     <span className="bg-primary text-white rounded-full w-6 h-6 flex items-center justify-center text-sm font-bold mr-3 mt-0.5">2</span>
@@ -153,7 +153,7 @@ export default function GuidePage() {
                 <ol className="space-y-3 text-muted">
                   <li className="flex items-start">
                     <span className="bg-secondary text-white rounded-full w-6 h-6 flex items-center justify-center text-sm font-bold mr-3 mt-0.5">1</span>
-                    <span>'공유모빌리티' 메뉴에서 지도를 확인하세요</span>
+                    <span>&apos;공유모빌리티&apos; 메뉴에서 지도를 확인하세요</span>
                   </li>
                   <li className="flex items-start">
                     <span className="bg-secondary text-white rounded-full w-6 h-6 flex items-center justify-center text-sm font-bold mr-3 mt-0.5">2</span>

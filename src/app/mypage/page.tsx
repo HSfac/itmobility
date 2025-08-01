@@ -1,4 +1,4 @@
-import { User, History, CreditCard, Settings, Bell, MapPin, Lock, Car } from "lucide-react";
+import { User, History, CreditCard, Settings, Lock, Car } from "lucide-react";
 
 export default function MyPage() {
   return (
